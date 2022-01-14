@@ -1,0 +1,17 @@
+{
+  "name": "density",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "exe": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^7.3.0",
+    "science": "^1.9.3"
+  }
+}
